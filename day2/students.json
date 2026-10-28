@@ -1,0 +1,30 @@
+[
+    {
+        "null": [
+            "name",
+            "age",
+            "course"
+        ]
+    },
+    {
+        "null": [
+            "Pooja",
+            "21",
+            "CSBS"
+        ]
+    },
+    {
+        "null": [
+            "Priya",
+            "20",
+            "CSE"
+        ]
+    },
+    {
+        "null": [
+            "Kaviya",
+            "21",
+            "IT"
+        ]
+    }
+]
